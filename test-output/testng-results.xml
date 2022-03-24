@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-21T10:34:20 IST" name="Default suite" finished-at="2022-03-21T10:34:56 IST" duration-ms="35478">
+    <groups>
+    </groups>
+    <test started-at="2022-03-21T10:34:20 IST" name="Default test" finished-at="2022-03-21T10:34:56 IST" duration-ms="35478">
+      <class name="ProjectDemo.ProjectClass">
+        <test-method is-config="true" signature="getYaml()[pri:0, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:20 IST" name="getYaml" finished-at="2022-03-21T10:34:20 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getYaml -->
+        <test-method signature="testLandingPage()[pri:1, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:20 IST" name="testLandingPage" finished-at="2022-03-21T10:34:32 IST" duration-ms="11953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLandingPage -->
+        <test-method signature="testRadioButton()[pri:2, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:32 IST" name="testRadioButton" finished-at="2022-03-21T10:34:33 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRadioButton -->
+        <test-method signature="testDropDown()[pri:3, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:33 IST" name="testDropDown" finished-at="2022-03-21T10:34:33 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropDown -->
+        <test-method signature="testCheckBox()[pri:4, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:33 IST" name="testCheckBox" finished-at="2022-03-21T10:34:33 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckBox -->
+        <test-method signature="openWindowButtonTest()[pri:5, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:33 IST" name="openWindowButtonTest" finished-at="2022-03-21T10:34:34 IST" duration-ms="1303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWindowButtonTest -->
+        <test-method signature="openTabButtonTest()[pri:6, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:34 IST" name="openTabButtonTest" finished-at="2022-03-21T10:34:40 IST" duration-ms="5840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTabButtonTest -->
+        <test-method signature="switchToAlerttest()[pri:7, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:40 IST" name="switchToAlerttest" finished-at="2022-03-21T10:34:41 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToAlerttest -->
+        <test-method signature="testIframe()[pri:8, instance:ProjectDemo.ProjectClass@4a883b15]" started-at="2022-03-21T10:34:41 IST" name="testIframe" finished-at="2022-03-21T10:34:56 IST" duration-ms="15169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIframe -->
+      </class> <!-- ProjectDemo.ProjectClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

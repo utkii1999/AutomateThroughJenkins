@@ -1,0 +1,10 @@
+website_link: https://courses.letskodeit.com/practice
+radio_button: //input[@type='radio']
+drop_down_id: carselect
+check_box: //input[@type='checkbox']
+open_window_id: openwindow
+open_tab_id: opentab
+verify_newtab: //label[text()='Category')]
+name_textbox: name
+alert_btn: alertbtn
+

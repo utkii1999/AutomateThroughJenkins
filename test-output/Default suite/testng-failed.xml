@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="ProjectDemo.ProjectClass">
+        <methods>
+          <include name="testRadioButton"/>
+          <include name="switchToAlerttest"/>
+          <include name="testDropDown"/>
+          <include name="testIframe"/>
+          <include name="testCheckBox"/>
+          <include name="openTabButtonTest"/>
+          <include name="getYaml"/>
+          <include name="openWindowButtonTest"/>
+        </methods>
+      </class> <!-- ProjectDemo.ProjectClass -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
